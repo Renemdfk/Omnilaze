@@ -1,0 +1,28 @@
+{
+  "name": "Omnilaze",
+  "version": "0.1.0",
+  "description": "Instant word editor",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ejs": "^2.3.1",
+    "express": "~4.9.x",
+    "socket.io": "1.2.0"
+  },
+  "engines": {
+    "node": "0.12.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Renemdfk/Omnilaze.git"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express",
+    "socket.io"
+  ],
+  "license": "Omnilaze"
+}
